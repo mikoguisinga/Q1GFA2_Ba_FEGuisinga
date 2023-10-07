@@ -1,0 +1,54 @@
+*{margin:5px;}
+.navbar{
+    margin: 10px;
+    padding: 10px;
+    border: 20px black;
+    background: linear-gradient(to bottom, #913ef0, #933bce);
+}
+.page{
+    background: linear-gradient(to bottom, #b689e9, #981dea);
+    background-size: cover;
+    height:auto;
+    background-position: center;
+    background-repeat:repeat;
+    height: 645px;
+    width: 1295 px;
+}
+.banner{
+    background-image:url(dayts.jpg);
+    height: 100px;
+    position:relative;
+    background-position: center;
+    background-repeat:repeat;
+}
+#linkleft{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    float: left;
+    display:inline;
+}
+#rightlink{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    float: right;
+    display:inline;
+}
+.middle{
+    text-align: center;
+    padding: 10px;
+}
+
+#paragraph{
+    margin:50px;
+}
+
+.rounded-image {
+    border-radius: 10%;
+}
+.color-change {
+    color: rgb(78, 34, 108); 
+}
+.header{
+    float:left;
+    margin-left:25vh;
+}
